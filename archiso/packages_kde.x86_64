@@ -14,7 +14,7 @@ brltty
 broadcom-wl-dkms
 btrfs-progs
 cachy-browser
-cachyos-calamares-next-grub
+cachyos-calamares-initcpiocfg-test
 cachyos-cli-installer-new
 cachyos-fish-config
 cachyos-hello
@@ -101,9 +101,9 @@ libwnck3
 libxinerama
 lightly-git
 linux-atm
-linux-cachyos
-linux-cachyos-headers
-linux-cachyos-zfs
+linux-cachyos-lts
+linux-cachyos-lts-headers
+linux-cachyos-lts-zfs
 linux-firmware
 linux-firmware-marvell
 lsb-release
