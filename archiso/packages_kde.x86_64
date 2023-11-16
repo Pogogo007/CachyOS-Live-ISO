@@ -101,10 +101,10 @@ libwnck3
 libxinerama
 lightly-git
 linux-atm
-linux-cachyos
-linux-cachyos-headers
-linux-cachyos-nvidia
-linux-cachyos-zfs
+bcachefs-tools-git
+linux-cachyos-rc
+linux-cachyos-rc-headers
+linux-cachyos-rc-nvidia
 linux-firmware
 linux-firmware-marvell
 lsb-release
